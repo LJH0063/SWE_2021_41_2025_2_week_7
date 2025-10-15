@@ -10,7 +10,3 @@ def twoSum(nums: List[int], target: int) -> List[int]:
     
     return result
 
-nums = [3, 3]
-target = 6
-print(twoSum(nums, target))
-
